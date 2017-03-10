@@ -1,0 +1,18 @@
+{
+  "name": "skanetrafiken-monitor",
+  "version": "0.0.1",
+  "description": "Monitor departures from a station using the Skanetrafiken API",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "skanetrafiken",
+    "api",
+    "monitor"
+  ],
+  "author": "Balazs @ onereason",
+  "license": "WTFPL",
+  "dependencies": {
+    "node-skanetrafiken": "git+https://github.com/axelniklasson/node-skanetrafiken.git"
+  }
+}
